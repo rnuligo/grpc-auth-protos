@@ -4,7 +4,7 @@
 // 	protoc        v5.29.3
 // source: sso/sso.proto
 
-package ssoy1
+package ssov1
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
@@ -331,7 +331,7 @@ const file_sso_sso_proto_rawDesc = "" +
 	"\bis_admin\x18\x01 \x01(\bR\aisAdmin2s\n" +
 	"\x04Auth\x129\n" +
 	"\bRegister\x12\x15.auth.RegisterRequest\x1a\x16.auth.RegisterResponse\x120\n" +
-	"\x05Login\x12\x12.auth.LoginRequest\x1a\x13.auth.LoginResponseB\x17Z\x15turrett0.sso.v1;ssoy1b\x06proto3"
+	"\x05Login\x12\x12.auth.LoginRequest\x1a\x13.auth.LoginResponseB\x17Z\x15turrett0.sso.v1;ssov1b\x06proto3"
 
 var (
 	file_sso_sso_proto_rawDescOnce sync.Once
